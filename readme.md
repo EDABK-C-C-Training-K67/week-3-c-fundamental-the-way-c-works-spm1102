@@ -660,36 +660,52 @@ short d;
 - `-Wall`\: Enables almost all warning messages. It's a good practice to use this flag to catch potential issues in the code.
  This flag has an extension, it is `-Wextra` 
  <br>
+
 - `-Werror`\: treats all warning messages as errors. Compilation will fail if any warnings are generated.
   <br>
+
 - `-Wfloat-equal`  warning option in GCC that generates a warning when floating-point numbers are compared for equality using the equality operator (`==`)
   <br>
+
 - `-std=XXX`\: It allows programmers to choose which version of the language specification you want the compiler to adhere to.
   <br> 
+
 - `Wshadown` warn whenever a local variable shadows another local variable, parameter or global variable or whenever a built-in function is shadowed.
 <br>
+
 - `-fmudflap`\: runtime bounds checking for C and C++ programs.
 <br>
+
 - `-Wundef`: warn if an uninitialized identifier is evaluated in an #if directive.
 <br>
+
 - `-Wpointer-arith`: warn if anything depends upon the size of a function or of void.
 <br>
+
 - `-Wcast-align`: warn whenever a pointer is cast such that the required alignment of the target is increased. For example, warn if a `char *` is cast to an `int *` on machines where integers can only be accessed at two- or four-byte boundaries.
 <br>
+
 - `-Wstrict-prototypes`: warn if a function is declared or defined without specifying the argument types.
 <br>
+
 - `-Wstrict-overflow`: warns about cases where the compiler optimizes based on the assumption that signed overflow does not occur. 
 <br>
+
 - `-Wwrite-strings`: give string constants the type `const char[length]` so that copying the address of one into a `non-const char *` pointer will get a warning.
 <br>
+
 - `-Waggregate-return`: warn if any functions that return structures or unions are defined or called.
 <br>
+
 - `-Wcast-qual`: warn whenever a pointer is cast to remove a type qualifier from the target type.
 <br>
+
 - `-Wswitch-enum`: warn whenever a switch statement has an index of enumerated type and lacks a case for one or more of the named codes of that enumeration.
 <br>
+
 - `-Wunreachable-code`: warn if the compiler detects that code will never be executed.
 <br>
+
   
 
 
