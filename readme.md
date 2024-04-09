@@ -1,8 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/IaeDFps5)
 <!--
 File: readme.md
-Author: [Your Name]
-Created on: [Date]
+Author: Do Viet Dung
+Created on: 01/04/2024
 Description: [Brief description of the file's purpose]
 -->
 
